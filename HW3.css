@@ -1,0 +1,19 @@
+table,tr,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+#table_three{
+    border: 2px dotted ;
+    background-color: aliceblue;
+}
+#color{
+    background-color: rgb(255, 199, 13);
+    border: 2px dotted ;
+}
+#color2{
+    background-color: rgb(255, 255, 255);
+    border: 2px dotted ;
+}
+.ol{
+    border: 2px dotted ;
+}
