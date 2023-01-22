@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: brown;
+}
+ol{
+    color: brown;
+}
+#one{
+font-weight: bold;;
+}
+#two{
+font-style: italic;
+color: blue;
+font-weight: bolder;
+}
+h2{
+    color: chartreuse;
+}
+.oneone{
+    color: brown;
+    font-weight: bold;
+}
+span{
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
+}
+.twotwo{
+    color: brown;
+    font-style: italic;
+    font-weight: bold;
+}
+ul{
+    color: chocolate;
+}

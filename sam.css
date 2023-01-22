@@ -1,0 +1,14 @@
+#text1{
+    width: 700px;
+    height: auto;
+    border: 2px solid white;
+    background-color: aliceblue;
+   
+}
+body{
+    background-image: url('http://ic.pics.livejournal.com/zinaidamindrova/47677905/160817/160817_600.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
